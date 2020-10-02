@@ -1,6 +1,5 @@
 ---
 - name: use motd role playbook example
-  hosts: ansible1
 
   roles:
     - role: motd
